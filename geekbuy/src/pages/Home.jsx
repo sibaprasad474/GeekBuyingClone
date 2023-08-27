@@ -28,11 +28,17 @@ function Home() {
         </div>
 
         <div className="card-right">
+        <h4>Deals of the day</h4>
             <div className="top">
-                {/* <div className="text-top">Deals of the day <span>Ends in{Math.random()} seconds</span></div> */}
-                
+                    <div className="box"></div>
+                    <div className="box"></div>
+                    <div className="box"></div>
             </div>
-            <div className="bottom"></div>
+            <div className="bottom">
+                    <div className="box"></div>
+                    <div className="box"></div>
+                    <div className="box"></div>
+            </div>
         </div>
     </div>
   )
