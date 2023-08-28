@@ -1,5 +1,6 @@
 import React from 'react'
 import { Card, CardHeader, CardBody, CardFooter } from '@chakra-ui/react'
+import {Slider,SliderTrack,SliderFilledTrack,SliderThumb,SliderMark,} from '@chakra-ui/react'
 function Home() {
   return (
     <div className='home-container'>
@@ -30,12 +31,29 @@ function Home() {
         <div className="card-right">
         <h4>Deals of the day</h4>
             <div className="top">
-                    <div className="box"></div>
-                    <div className="box"></div>
-                    <div className="box"></div>
+                    <div className="box">
+                        <img src="https://img.gkbcdn.com/p/2019-01-31/tronsmart-element-mega-bluetooth-speaker-black-1571991584812._w280_p1_.jpg" alt="error" />
+                        <p className='discount'>34% OFF</p>
+                        <p className='price'>€40.06</p>
+                        <div className="slider">
+                        
+                        </div>
+                    </div>
+                    <div className="box">
+                        <img src="https://img.gkbcdn.com/p/2023-06-09/KG3-Plus-Mini-PC-Intel-Alder-16GB-RAM-512GB-ROM-EU-520830-0._w280_p1_.jpg" alt="" />
+                        <p className='discount'>15% OFF</p>
+                        <p className='price'>€169</p>
+                    </div>
+                    <div className="box">
+                        <img src="https://img.gkbcdn.com/p/2023-08-11/anbernic-rg35xx-handheld-game-console-64gb-card-grey-3b42ad-1691755373693._w280_p1_.jpg" alt="" />
+                        <p className='discount'>28% OFF</p>
+                        <p className='price'>€45</p>
+                    </div>
             </div>
             <div className="bottom">
-                    <div className="box"></div>
+                    <div className="box">
+       
+                    </div>
                     <div className="box"></div>
                     <div className="box"></div>
             </div>
