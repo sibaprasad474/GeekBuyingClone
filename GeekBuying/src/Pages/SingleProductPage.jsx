@@ -84,7 +84,7 @@ import { CartContext } from '../CartContextProvider';
           </VStack>
 
 
-         <Box align='left'  bg='white' p='10px'  w='60%' h='450px'>
+         <Box align='left'  bg='white' p='10px'  w='61%' h='450px'>
               <Text as='b' fontSize='medium'>{singleData.Name}</Text>
               <br />
               <HStack mt='12px'>
@@ -142,8 +142,8 @@ import { CartContext } from '../CartContextProvider';
        </Box>
   </HStack> 
   <VStack mt='60px'>
-    <img src={singleData.BottomImageF} alt="" /> 
-    <img src={singleData.BottomImageS} alt="" /> 
+    <img src={singleData.BottomImageF} alt="not found" /> 
+    <img src={singleData.BottomImageS} alt="not found" /> 
 </VStack>
 </Box>
   )
