@@ -52,45 +52,45 @@ const  defaultStyle={
 
 const Navbar = () => {
 
-  // const url = `https://api-pathak-database.vercel.app/Items`
-  // const ref = useRef(null)
-  // const [hiddenDiv, setHiddenDiv] = useState(false)
-  // const [data, setData] = useState([])
-  // const [searchVal, setSearchVal] = useState("");
-  // useEffect(()=>{
-  //   fetchData(searchVal)
-  // },[searchVal])
-  // const fetchData=(searchVal)=>{
-  //   fetch(`${url}?_limit=5&q=${searchVal}`)
-  //   .then((res)=>res.json())
-  //   .then((res)=>{
-  //     // setData(res)
-  //     setData(res)
-  //     console.log(res, " search input data after fetched ");
-  //   })
-  // }
-  // const debounce = (fn, timeout)=>{
-  //   let timerid;
-  //   return ()=>{
-  //     clearTimeout(timerid)
-  //     timerid = setTimeout(() => {
-  //       fn()
-  //     }, timeout);
-  //   }
-  // }
-  // const handleinput = debounce(()=>{
-  //   const val = ref.current.value
-  //   console.log(" event val check in debounce ", val);
-  //   setHiddenDiv(true)
-  //   setSearchVal(val)
-  // }, 500)
+  const url = `https://api-pathak-database.vercel.app/Items`
+  const ref = useRef(null)
+  const [hiddenDiv, setHiddenDiv] = useState(false)
+  const [data, setData] = useState([])
+  const [searchVal, setSearchVal] = useState("");
+  useEffect(()=>{
+    fetchData(searchVal)
+  },[searchVal])
+  const fetchData=(searchVal)=>{
+    fetch(`${url}?_limit=5&q=${searchVal}`)
+    .then((res)=>res.json())
+    .then((res)=>{
+      // setData(res)
+      setData(res)
+      console.log(res, " search input data after fetched ");
+    })
+  }
+  const debounce = (fn, timeout)=>{
+    let timerid;
+    return ()=>{
+      clearTimeout(timerid)
+      timerid = setTimeout(() => {
+        fn()
+      }, timeout);
+    }
+  }
+  const handleinput = debounce(()=>{
+    const val = ref.current.value
+    console.log(" event val check in debounce ", val);
+    setHiddenDiv(true)
+    setSearchVal(val)
+  }, 500)
 
-  // window.addEventListener("click",(e)=>{
-  //   console.log(e.target.id, " check window ");
-  //   if(e.target.id!=="inputBox"){
-  //     setHiddenDiv(false)
-  //   }
-  // })
+  window.addEventListener("click",(e)=>{
+    console.log(e.target.id, " check window ");
+    if(e.target.id!=="inputBox"){
+      setHiddenDiv(false)
+    }
+  })
   return (
     <>
       <Box w="100%" h="166px" bg=" #0066ff">
