@@ -53,33 +53,33 @@ const LandingPage=()=>{
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2022-10-15/AOSIMAN-140FCC-Portable-14-Inch-Monitor-1920-1200-Resolution-517894-0._w280_p1_.jpg'></Image>
                             <Text ml='20px' bg='red' borderRadius='6px' color='white' fontSize='xs' width='80px'>23% off</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2022-09-23/SCULPFUN-S30-Pro-10W-Laser-Engraver-Cutter-517192-0._w280_p1_.jpg'></Image>
                             <Text ml='20px' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>23% off</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2022-10-14/Multifunctional-Electric-Heating-Pad-Grey-EU-Plug-517864-0._w280_p1_.jpg'></Image>
                             <Text ml='20px' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>23% off</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2020-11-02/rg351p-anbernic-retro-game-console-black-1604318839608._w280_p1_.jpg'></Image>
                             <Text ml='20px' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>23% off</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
 
@@ -88,33 +88,33 @@ const LandingPage=()=>{
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2022-05-17/Xiaomi-Mijia-2L-Smart-Automatic-Pet-Water-Dispenser-500597-0._w280_p1_.jpg'></Image>
                             <Text fontSize='sm'>Xiaomi Mijia 2L</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2022-05-04/Anbernic-RG351MP-Portable-Game-Player-16GB-64GB-TF-Card-Ocean-Blue-500229-0._w280_p1_.jpg'></Image>
                             <Text fontSize='sm'>ANBERNIC RG351MP</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2021-10-29/P400-Bluetooth-5-2-TWS-Earbuds-475334-3._w280_p1_.jpg'></Image>
                             <Text fontSize='sm'>Air Plus 4 Bluetooth</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
                         <Box>
                             <Image w='140px' src='https://img.gkbcdn.com/p/2022-02-10/a6r-tws-wireless-earphones-black-4570b2-1644488631155._w280_p1_.jpg'></Image>
                             <Text fontSize='sm'>A6R TWS Bluetooth</Text>
-                            <Text as='b'>$94.09</Text>
+                            <Text as='b'>₹94.09</Text>
                             <br />
-                            <Text as='s'>$122.73</Text>
+                            <Text as='s'>₹122.73</Text>
 
                         </Box>
 
@@ -140,7 +140,7 @@ const LandingPage=()=>{
       <Box border='1px solid gray'>
         <Image src='https://img.gkbcdn.com/bn/2211/1-636b23b32b40c91ee886b170._p1_.jpg'></Image>
         <Text ml='10px' align='left' fontWeight='800'>E-transport & Outdoor</Text>
-        <Text ml='10px' align='left' fontSize='s'> Electric bikes, electric scooters, portable generators, and more outdoor gear, save $50 now!</Text>
+        <Text ml='10px' align='left' fontSize='s'> Electric bikes, electric scooters, portable generators, and more outdoor gear, save ₹50 now!</Text>
       </Box>
       
      </HStack>
@@ -258,34 +258,34 @@ const LandingPage=()=>{
                             <Image w='160px' src='https://img.gkbcdn.com/p/2020-01-09/Tronsmart-element-T6-plus-Upgrade-Black-895558-._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>38% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart T6 Plus Upgraded Edition</Text>
-                            <Text as='b'>€51.13</Text>
+                            <Text as='b'>₹51.13</Text>
                             <br />
-                            <Text as='s'>€81.81</Text>
+                            <Text as='s'>₹81.81</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-11-04/tronsmart-apollo-q10-anc-bluetooth-headphones--e74f5c-1667556691258._w280_p1_.jpg'></Image>
                             <Text  display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>50% OFF</Text>
                             <Text noOfLines={2} fontSize='sm'>Tronsmart Apollo Q10 ANC Active Noise</Text>
-                            <Text as='b'>€30.67</Text>
+                            <Text as='b'>₹30.67</Text>
                             <br />
-                            <Text as='s'>€61.36</Text>
+                            <Text as='s'>₹61.36</Text>
                         </Box>
                          <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2019-10-24/tronsmart-element-t6-max-60w-bluetooth-5-0-nfc-speaker-black-1574132858241._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'> 36% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart Element T6 Max 60W Bluetooth 5.0</Text>
-                            <Text as='b'>€65.45</Text>
+                            <Text as='b'>₹65.45</Text>
                             <br />
-                            <Text as='s'>€102.27</Text>
+                            <Text as='s'>₹102.27</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2020-03-18/Tronsmart-Onyx-Ace-Bluetooth-5-0-TWS-Earphones-White-899355-._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>40% OFF</Text>
                             <Text fontSize='sm'>Tronsmart Onyx Ace Pro TWS Earbuds, Qualcomm</Text>
                                  
-                            <Text as='b'>€24.54</Text>
+                            <Text as='b'>₹24.54</Text>
                             <br />
-                            <Text as='s'>€40.90</Text>
+                            <Text as='s'>₹40.90</Text>
                         </Box>
                     </HStack>
 
@@ -305,34 +305,34 @@ const LandingPage=()=>{
                             <Image w='160px' src='https://img.gkbcdn.com/p/2022-05-16/engwe-ep-2-pro-folding-electric-moped-bicycle-750w-motor-black-f02f83-1652693914387._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>38% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart T6 Plus Upgraded Edition</Text>
-                            <Text as='b'>€51.13</Text>
+                            <Text as='b'>₹51.13</Text>
                             <br />
-                            <Text as='s'>€81.81</Text>
+                            <Text as='s'>₹81.81</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-07-11/ENGWE-T14-Folding-Electric-Bicycle-14-Inch-Tire-508466-0._w280_p1_.jpg'></Image>
                             <Text  display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>50% OFF</Text>
                             <Text noOfLines={2} fontSize='sm'>Tronsmart Apollo Q10 ANC Active Noise</Text>
-                            <Text as='b'>€30.67</Text>
+                            <Text as='b'>₹30.67</Text>
                             <br />
-                            <Text as='s'>€61.36</Text>
+                            <Text as='s'>₹61.36</Text>
                         </Box>
                          <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-02-24/engwe-c20-pro-folding-electric-bicycle-67247a-1645673469050._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'> 36% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart Element T6 Max 60W Bluetooth 5.0</Text>
-                            <Text as='b'>€65.45</Text>
+                            <Text as='b'>₹65.45</Text>
                             <br />
-                            <Text as='s'>€102.27</Text>
+                            <Text as='s'>₹102.27</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-10-28/engwe-engine-pro-folding-electric-bicycle-750w-48v-16ah-battery-black-77682a-1666945658891._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>40% OFF</Text>
                             <Text fontSize='sm'>Tronsmart Onyx Ace Pro TWS Earbuds, Qualcomm</Text>
                                  
-                            <Text as='b'>€24.54</Text>
+                            <Text as='b'>₹24.54</Text>
                             <br />
-                            <Text as='s'>€40.90</Text>
+                            <Text as='s'>₹40.90</Text>
                         </Box>
                     </HStack>
 
@@ -352,34 +352,34 @@ const LandingPage=()=>{
                             <Image w='160px' src='https://img.gkbcdn.com/p/2021-12-22/SCULPFUN-S9-Laser-Engraver-481991-0._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>38% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart T6 Plus Upgraded Edition</Text>
-                            <Text as='b'>€51.13</Text>
+                            <Text as='b'>₹51.13</Text>
                             <br />
-                            <Text as='s'>€81.81</Text>
+                            <Text as='s'>₹81.81</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-09-23/SCULPFUN-S30-Pro-10W-Laser-Engraver-Cutter-517192-0._w280_p1_.jpg'></Image>
                             <Text  display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>50% OFF</Text>
                             <Text noOfLines={2} fontSize='sm'>Tronsmart Apollo Q10 ANC Active Noise</Text>
-                            <Text as='b'>€30.67</Text>
+                            <Text as='b'>₹30.67</Text>
                             <br />
-                            <Text as='s'>€61.36</Text>
+                            <Text as='s'>₹61.36</Text>
                         </Box>
                          <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-05-12/Sculpfun-S10-Laser-Engraver-500429-0._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'> 36% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart Element T6 Max 60W Bluetooth 5.0</Text>
-                            <Text as='b'>€65.45</Text>
+                            <Text as='b'>₹65.45</Text>
                             <br />
-                            <Text as='s'>€102.27</Text>
+                            <Text as='s'>₹102.27</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-05-09/Sculpfun-Honeycomb-Panel-400x400mm-500292-0._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>40% OFF</Text>
                             <Text fontSize='sm'>Tronsmart Onyx Ace Pro TWS Earbuds, Qualcomm</Text>
                                  
-                            <Text as='b'>€24.54</Text>
+                            <Text as='b'>₹24.54</Text>
                             <br />
-                            <Text as='s'>€40.90</Text>
+                            <Text as='s'>₹40.90</Text>
                         </Box>
                     </HStack>
 
@@ -400,34 +400,34 @@ const LandingPage=()=>{
                             <Image w='160px' src='https://img.gkbcdn.com/p/2022-03-02/creality-ender-3-s1-pro-3d-printer-c9e30b-1646215071933._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>38% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart T6 Plus Upgraded Edition</Text>
-                            <Text as='b'>€51.13</Text>
+                            <Text as='b'>₹51.13</Text>
                             <br />
-                            <Text as='s'>€81.81</Text>
+                            <Text as='s'>₹81.81</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-07-09/creality-ender-3-v2-3d-printer-with-upgraded-32-bit-silent-motherboard-732f54-1657351329700._w280_.JPG'></Image>
                             <Text  display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>50% OFF</Text>
                             <Text noOfLines={2} fontSize='sm'>Tronsmart Apollo Q10 ANC Active Noise</Text>
-                            <Text as='b'>€30.67</Text>
+                            <Text as='b'>₹30.67</Text>
                             <br />
-                            <Text as='s'>€61.36</Text>
+                            <Text as='s'>₹61.36</Text>
                         </Box>
                          <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-05-24/Creality-CR-Scan-Lizard-3D-Scanner-501259-0._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'> 36% OFF</Text>
                             <Text noOfLines={2} fontSize='sm' >Tronsmart Element T6 Max 60W Bluetooth 5.0</Text>
-                            <Text as='b'>€65.45</Text>
+                            <Text as='b'>₹65.45</Text>
                             <br />
-                            <Text as='s'>€102.27</Text>
+                            <Text as='s'>₹102.27</Text>
                         </Box>
                         <Box align='left'>
                             <Image  w='160px' src='https://img.gkbcdn.com/p/2022-10-31/creality-ender-3-s1-3d-printer-303cda-1667202443810._w280_p1_.jpg'></Image>
                             <Text display='flex' justifyContent='center' alignItems='center' bg='red' borderRadius='6px' color='white' fontSize='xs'  width='80px'>40% OFF</Text>
                             <Text fontSize='sm'>Tronsmart Onyx Ace Pro TWS Earbuds, Qualcomm</Text>
                                  
-                            <Text as='b'>€24.54</Text>
+                            <Text as='b'>₹24.54</Text>
                             <br />
-                            <Text as='s'>€40.90</Text>
+                            <Text as='s'>₹40.90</Text>
                         </Box>
                     </HStack>
 

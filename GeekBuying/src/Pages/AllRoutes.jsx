@@ -27,8 +27,7 @@ function AllRoutes() {
       <Route path="/cart" element={<Cart />}></Route>
       <Route path="/checkout" element={<Checkout />}></Route>
       <Route path="/checkout/payment" element={<Payment />}></Route>
-      
-           <Route path="/categories" element={<Categories />}></Route>
+      <Route path="/categories" element={<Categories />}></Route>
     </Routes>
   );
 }

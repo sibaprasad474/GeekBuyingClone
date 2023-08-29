@@ -325,9 +325,9 @@ const Navbar = () => {
               </Stack>
             </Box>
 
-            <Box w="180px" h="10">
+            {/* <Box w="180px" h="10">
               <Text>Ship to /EUR</Text>
-            </Box>
+            </Box> */}
             <Box w="180px" style={{ display: "flex", gap: "3px" }}>
               <HiOutlineUser fontSize="30px" /> Sign in{" "}
             </Box>
