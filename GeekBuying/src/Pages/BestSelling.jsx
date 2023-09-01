@@ -47,7 +47,7 @@ const BestSelling=()=>{
               background:'white',
               fontFamily: "Open Sans",
               display: "flex",
-              padding:'10px',
+              padding:'12px',
               flexDirection: "column",
               alignItems: "center"
             }}
@@ -64,7 +64,7 @@ const BestSelling=()=>{
        {el.Name}
         </Box>
              <Text ml='-150px' fontWeight='600' fontSize='large'>{el.SalePrice}</Text>
-             <Text ml='-150px' fontSize='large'>{el.CsSalesPrice}</Text>
+             <Text ml='-130px' fontSize='large'>{el.CsSalesPrice}</Text>
           </Box>
         ))}
     </SimpleGrid>
