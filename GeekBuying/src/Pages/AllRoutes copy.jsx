@@ -10,10 +10,10 @@ import SingleProduct from "./SingleProductPage";
 import Cart from "./Cart";
 import Checkout from "./Checkout";
 import Payment from "./Payment";
-import Login from "./Login"
-import Signup from "./Signup"
-//import PageNotFound from "./NotFoundPage";
-//import PrivateRoute from "../Components/PrivateRoute";
+// import Login from "../Login/Login";
+
+// import PageNotFound from "./NotFoundPage";
+// import PrivateRoute from "../Components/PrivateRoute";
 
 function AllRoutes() {
   return (
@@ -29,9 +29,7 @@ function AllRoutes() {
       <Route path="/checkout" element={<Checkout />}></Route>
       <Route path="/checkout/payment" element={<Payment />}></Route>
       <Route path="/categories" element={<Categories />}></Route>
-      
       <Route path="/Login" element={<Login/>}></Route>
-      <Route path="/Signup" element={<Signup/>}></Route>
     </Routes>
   );
 }

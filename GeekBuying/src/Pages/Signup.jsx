@@ -90,9 +90,7 @@ const Registration = () => {
               </p>
 
               {flag && (
-                <Alert color="primary" variant="danger">
-                  Please Fill Every Field
-                </Alert>
+               <h4></h4>
               )}
             </form>
           ) : (

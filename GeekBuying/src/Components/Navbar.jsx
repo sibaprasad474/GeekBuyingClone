@@ -329,7 +329,9 @@ const Navbar = () => {
               <Text>Ship to /EUR</Text>
             </Box> */}
             <Box w="180px" style={{ display: "flex", gap: "3px" }}>
-              <HiOutlineUser fontSize="30px" /> Sign in{" "}
+              {/* <HiOutlineUser fontSize="30px" /> Sign in{" "} */}
+              <a href="./login">Login</a>
+              <a href="./Signup">Signup</a>
             </Box>
             <Box w="100px">
               <BsCart fontSize="25px" />
